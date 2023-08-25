@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: bin/alacritty.yml
+  checksum: c2227430d50a05120f5a10ce1941b42e654c27cd0e7306f64d8cd9aff47bfe1c

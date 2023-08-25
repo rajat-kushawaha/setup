@@ -1,0 +1,18 @@
+TERM: alacritty
+window:
+  dimensions:
+    columns: 180
+    lines: 50
+  padding:
+    x: 10
+    y: 20
+  decorations: buttonless
+  title: Alacritty
+font:
+  family: 'Fira Code'
+  size: 16.0  
+live_config_reload: true
+shell:
+  program: /bin/zsh
+  args:
+    - --login

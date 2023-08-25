@@ -1,0 +1,5 @@
+alias ta="tmux attach-session -t"
+alias tk="tmux kill-session -t"
+alias tls="tmux list-session"
+alias tn="tmux new -s"
+alias mux="tmuxinator"
